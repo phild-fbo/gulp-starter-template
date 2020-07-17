@@ -1,0 +1,19 @@
+{
+  "name": "gulp-starter-template",
+  "version": "1.0.0",
+  "description": "gulp setup with sass and browser snyc support for easy and fast web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phild",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  }
+}
